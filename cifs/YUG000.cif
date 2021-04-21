@@ -1,0 +1,46 @@
+data_crystal
+
+_cell_length_a    6.78200
+_cell_length_b    8.58968
+_cell_length_c    8.58968
+_cell_angle_alpha 106.75648
+_cell_angle_beta  102.65411
+_cell_angle_gamma 102.65411
+
+_space_group_name_Hall 'P 1'
+_space_group_name_H-M_alt 'P 1'
+
+loop_
+_symmetry_equiv_pos_as_xyz
+ 'x,y,z'
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O          O       0.50000   0.50000   0.00000
+O          O       0.50000   1.00000   0.50000
+O          O       0.77630   0.49160   0.82860
+O          O       0.22370   0.17140   0.50840
+O          O       0.22370   0.50840   0.17140
+O          O       0.77630   0.82860   0.49160
+O          O       0.81020   0.37230   0.07930
+O          O       0.18980   0.92070   0.62770
+O          O       0.18980   0.62770   0.92070
+O          O       0.81020   0.07930   0.37230
+O          O       0.50000   0.20650   0.79350
+O          O       0.50000   0.79350   0.20650
+O          O       0.94750   0.64580   0.64580
+O          O       0.05250   0.35420   0.35420
+O          O       0.00000   0.35190   0.64810
+O          O       0.00000   0.64810   0.35190
+Si         Si      0.64620   0.39260   0.92520
+Si         Si      0.35380   0.07480   0.60740
+Si         Si      0.35380   0.60740   0.07480
+Si         Si      0.64620   0.92520   0.39260
+Si         Si      0.97860   0.52950   0.76070
+Si         Si      0.02140   0.23930   0.47050
+Si         Si      0.02140   0.47050   0.23930
+Si         Si      0.97860   0.76070   0.52950
