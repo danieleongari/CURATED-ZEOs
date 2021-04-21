@@ -1,9 +1,12 @@
 Zeolite ZSM-5:
   - Na-ZSM-5
+  - Zeolite MFI-5A # 5A is referring to the opening of 5 Angs
+  - Zeolite Socony Mobil–5
   - Zeolite Molecular Sieve 5
   - Zeolite MFI
   - All-Silica MFI
-  - Zeolite 5A
+  - PS-MFI
+  - Pure Silica MFI
 
 Ammonium ZSM-5:
   - NIST RM-8852 # https://www.sciencedirect.com/science/article/pii/S1387181107001631
@@ -20,12 +23,6 @@ Zeolite 13X:
   - ZMS 13X
   - Na-FAU
 
-Zeolite Y:
-  - Zeolite Na-Y
-  - Linde Type Y
-  - Na-FAU
-  - NIST RM-8850 # https://www.sciencedirect.com/science/article/pii/S1387181107001631
-
 Zeolite CaX:
   - Ca+2 exchanged 13X
   - Zeolite 10X
@@ -33,7 +30,24 @@ Zeolite CaX:
 Zeolite MgX:
   - Mg+2 exchanged 13X
 
+Zeolite Y:
+  - Zeolite Na-Y
+  - Linde Type Y
+  - Na-FAU
+  - NIST RM-8850 # https://www.sciencedirect.com/science/article/pii/S1387181107001631
+
+Zeolite Na-A:
+  - Linde Type A
+  - NIST RM-8851 # https://www.sciencedirect.com/science/article/pii/S1387181107001631 
+  - Zeolite LTA-4A # PLD of 4 Angstrom
+
+Zeolite K-A:
+  - Zeolite LTA-3A # PLD of 3 Angstrom
+
+ Zeolite Ca-A:
+   - Zeolite LTA-5A # PLD of 3 Angstrom
 
 
 
+  
 

@@ -223,4 +223,8 @@ FAU004,Zeolite Y,Na64O384Si128Al64,2.0,Randomly removed 16 Na and Al from FAU003
 FAU005,Zeolite Y,Na55O384Si137Al55,2.5,Randomly removed 9 Na and Al from FAU004.
 FAU006,Zeolite Y,Na48O384Si144Al48,3.0,Randomly removed 7 Na and Al from FAU005.
 FAU007,Zeolite CaX,Ca43O384Si106Al43,1.2,Remove half Na and convert the remaining to Ca from FAU002.
-FAU008,Zeolite MgX,Mg43O384Si106Al43,1.2,Convert Ca to Mg from FAU007
+FAU008,Zeolite MgX,Mg43O384Si106Al43,1.2,Convert Ca to Mg from FAU007.
+LTA001,Zeolite Na-A,Na96O384Si96Al96,1.0,Starting from https://europe.iza-structure.org/IZA-SC/mat_cif.php?ID=LTA_0 keeping the Al and Na with highest occupancy and manually adding one Na per pore to reach 1:1. 
+LTA002,Zeolite K-A,K96O384Si96Al96,1.0,Convert Na to K from LTA001.
+LTA003,Zeolite Ca-A,Ca48O384Si96Al96,1.0,Remove the 8 added Na and randomly other 40 Na from LTA001.
+LTA004,Zeolite Mg-A,Mg58O384Si96Al96,1.0,Convert Ca to Mg from LTA003.
