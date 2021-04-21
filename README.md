@@ -7,7 +7,7 @@ Name: conventional name, as used in the NIST ISO-DB (be careful with synonyms, r
 
 Chemical Formula: chemical formula
 
-Si/Al Ratio: ratio between silicon and Al atoms, 1.0 for all-silica
+Si/Al Ratio: ratio between silicon and Al atoms, `Inf` for all-silica
 
 Note: origin of the cif file
 

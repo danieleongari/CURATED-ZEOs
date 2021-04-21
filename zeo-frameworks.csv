@@ -222,3 +222,5 @@ FAU003,Zeolite 13X,Na80O384Si112Al80,1.4,Randomly removed 7 Na and Al from FAU00
 FAU004,Zeolite Y,Na64O384Si128Al64,2.0,Randomly removed 16 Na and Al from FAU003.
 FAU005,Zeolite Y,Na55O384Si137Al55,2.5,Randomly removed 9 Na and Al from FAU004.
 FAU006,Zeolite Y,Na48O384Si144Al48,3.0,Randomly removed 7 Na and Al from FAU005.
+FAU007,Zeolite CaX,Ca43O384Si106Al43,1.2,Remove half Na and convert the remaining to Ca from FAU002.
+FAU008,Zeolite MgX,Mg43O384Si106Al43,1.2,Convert Ca to Mg from FAU007
