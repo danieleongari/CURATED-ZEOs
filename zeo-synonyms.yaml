@@ -7,6 +7,7 @@ Zeolite ZSM-5:
   - All-Silica MFI
   - PS-MFI
   - Pure Silica MFI
+  - Silicalite-1
 
 Ammonium ZSM-5:
   - NIST RM-8852 # https://www.sciencedirect.com/science/article/pii/S1387181107001631
@@ -44,10 +45,22 @@ Zeolite Na-A:
 Zeolite K-A:
   - Zeolite LTA-3A # PLD of 3 Angstrom
 
- Zeolite Ca-A:
-   - Zeolite LTA-5A # PLD of 3 Angstrom
+Zeolite Ca-A:
+  - Zeolite LTA-5A # PLD of 3 Angstrom
 
+Zeolite DD3R:
+  - Pure Silica DDR
+  - All-silica deca-dodecasil 3R 
 
+Zeolite ZSM-11: # Si:Al = 100 (https://www.acsmaterial.com/zsm-11.html)
+  - Pure silica MEL
+  - Pure silica ZSM-11
 
+Zeolite ZSM-22: # Si:Al > 100 (https://www.acsmaterial.com/zsm-22.html)
+  - Pure silica TON
+  - Pure silica ZSM-22
   
-
+Zeolite ZSM-23: # Si:Al > 100 (https://www.acsmaterial.com/zsm-23.html)
+  - Pure silica MTT
+  - Pure silica ZSM-23
+  
