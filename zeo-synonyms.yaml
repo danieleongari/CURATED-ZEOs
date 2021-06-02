@@ -1,18 +1,19 @@
-Zeolite ZSM-5:
+Zeolite ZSM-5: # Name generally used for Si/Al from 8 to Inf (cit. Handbook of Zeolite Science and Technology)
   - Na-ZSM-5
   - Zeolite MFI-5A # 5A is referring to the opening of 5 Angs
   - Zeolite Socony Mobil–5
   - Zeolite Molecular Sieve 5
   - Zeolite MFI
-  - All-Silica MFI
-  - PS-MFI
-  - Pure Silica MFI
-  - Silicalite-1
 
 Ammonium ZSM-5:
   - NIST RM-8852 # https://www.sciencedirect.com/science/article/pii/S1387181107001631
   - NH4-ZSM-5
 
+Silicalite-1:
+  - All-Silica MFI
+  - PS-MFI
+  - Pure Silica MFI
+  
 Zeolite 13X:
   - Zeolite X
   - Zeolite Na-X
