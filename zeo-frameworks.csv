@@ -228,5 +228,11 @@ LTA001,Zeolite Na-A,Na96O384Si96Al96,1.0,Starting from https://europe.iza-struct
 LTA002,Zeolite K-A,K96O384Si96Al96,1.0,Convert Na to K from LTA001.
 LTA003,Zeolite Ca-A,Ca48O384Si96Al96,1.0,Remove the 8 added Na and randomly other 40 Na from LTA001.
 LTA004,Zeolite Mg-A,Mg58O384Si96Al96,1.0,Convert Ca to Mg from LTA003.
-CHA001,Cu-SSZ-13,O72Si33Al3Cu3,10,Randomly switched 3 Al from CHA000 and add Cu close by. Inspired by: 10.1021/ja210580b
-CHA002,H-SSZ-13,O72Si33Al3H3,10,From CHA001 replace Cu with H and make it closer. Inspired by: 10.1021/ja210580b
+CHA001,Cu-SSZ-13,O72Si33Al3Cu3,11,Randomly switched 3 Al from CHA000 and add Cu close by. Inspired by: 10.1021/ja210580b
+CHA002,H-SSZ-13,O72Si33Al3H3,11,From CHA001 replace Cu with H and make it closer. Inspired by: 10.1021/ja210580b
+CHA003,Zeolite Li-CHA-12,O72Si33Al3Li3,11,Randomly switched 3 Al from CHA000 and add Li in the positions showed in 10.1002/cssc.201402555
+CHA004,Zeolite Na-CHA-12,O72Si33Al3Na3,11,Randomly switched 3 Al from CHA000 and add Na in the positions showed in 10.1002/cssc.201402555
+CHA005,Zeolite K-CHA-12,O72Si33Al3K3,11,Randomly switched 3 Al from CHA000 and add K in the positions showed in 10.1002/cssc.201402555
+CHA006,Zeolite Li-CHA-6,O72Si31Al5Li5,6.2,Randomly switched 5 Al from CHA000 and add Li in the positions showed in 10.1002/cssc.201402555
+CHA007,Zeolite Na-CHA-6,O72Si31Al5Na5,6.2,Randomly switched 5 Al from CHA000 and add Na in the positions showed in 10.1002/cssc.201402555
+CHA008,Zeolite K-CHA-6,O72Si31Al5K5,6.2,Randomly switched 5 Al from CHA000 and add K in the positions showed in 10.1002/cssc.201402555
